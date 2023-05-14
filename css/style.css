@@ -1207,7 +1207,7 @@ input[name="slider"] {
         justify-content: center;
     }
 }
-@media (min-width: 375px) and (max-width: 767px) {
+@media (max-width: 767px) {
     .scheme {
         max-width: 100%;
     }
