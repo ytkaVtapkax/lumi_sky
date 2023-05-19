@@ -1186,6 +1186,7 @@ input[name="slider"] {
     }
     .scheme {
         max-width: 100%;
+        width: 100%;
     }
     .booking__forma {
         max-width: 100%;
@@ -1210,6 +1211,7 @@ input[name="slider"] {
 @media (max-width: 767px) {
     .scheme {
         max-width: 100%;
+        width: 100%;
     }
     .booking__scheme {
         margin: 20px 0;
