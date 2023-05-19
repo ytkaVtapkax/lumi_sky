@@ -1262,3 +1262,8 @@ input[name="slider"] {
         margin-left: 20px;
     }
 }
+@media (max-width: 670px) {
+    #buttonUp {
+        display: none;
+    }
+}
