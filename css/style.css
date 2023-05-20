@@ -131,6 +131,10 @@ header, footer {
     .header__logo {
         text-align: center;
     }
+    .address-text {
+        font-size: 20px;
+        line-height: 1;
+    }
 }
 /* menu */
 .nav {
