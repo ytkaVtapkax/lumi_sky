@@ -1270,4 +1270,7 @@ input[name="slider"] {
     #buttonUp {
         display: none;
     }
+    .form {
+    height: 80vh;
+    }
 }
